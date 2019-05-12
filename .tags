@@ -1,3 +1,47 @@
 UserTest	/Users/yamaguchi/Desktop/environment/sample_app/test/models/user_test.rb	/^class UserTest < ActiveSupport::TestCase$/;"	class	line:3
 setup	/Users/yamaguchi/Desktop/environment/sample_app/test/models/user_test.rb	/^  def setup$/;"	method	line:7	class:UserTest
 User	/Users/yamaguchi/Desktop/environment/sample_app/app/models/user.rb	/^class User < ApplicationRecord$/;"	class	line:1
+UsersHelper	/Users/yamaguchi/Desktop/environment/sample_app/app/helpers/user_helper.rb	/^module UsersHelper$/;"	module	line:1
+gravatar_for	/Users/yamaguchi/Desktop/environment/sample_app/app/helpers/user_helper.rb	/^  def gravatar_for(user)$/;"	method	line:4	class:UsersHelper
+body	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^body{$/;"	function	line:6
+section	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^section{$/;"	function	line:10
+textarea	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^textarea{$/;"	function	line:14
+.center	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^.center{$/;"	function	line:18
+.center h1	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^.center h1{$/;"	function	line:22
+h1, h2, h3, h4, h5, h6	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^h1, h2, h3, h4, h5, h6{$/;"	function	line:27
+h1	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^h1{$/;"	function	line:31
+h2	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^h2 {$/;"	function	line:38
+p	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^p {$/;"	function	line:47
+#logo	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^#logo {$/;"	function	line:54
+#logo:hover	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^#logo:hover {$/;"	function	line:65
+footer	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^footer {$/;"	function	line:72
+footer a	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^footer a {$/;"	function	line:79
+footer a:hover	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^footer a:hover {$/;"	function	line:83
+footer small	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^footer small {$/;"	function	line:87
+footer ul	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^footer ul {$/;"	function	line:91
+footer ul li	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^footer ul li {$/;"	function	line:96
+gray-medium-light	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^$gray-medium-light: #eaeaea;$/;"	function	line:102
+@mixin box_sizing	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^@mixin box_sizing {$/;"	function	line:104
+.debug_dump	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^.debug_dump {$/;"	function	line:113
+aside	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^aside {$/;"	function	line:123
+section.user_info	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^  section.user_info {$/;"	function	line:124
+section	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^  section {$/;"	function	line:127
+&:first-child	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^    &:first-child {$/;"	function	line:130
+span	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^    span {$/;"	function	line:134
+h1	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^    h1 {$/;"	function	line:139
+.gravatar	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^.gravatar {$/;"	function	line:149
+.gravatar_edit	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^.gravatar_edit {$/;"	function	line:154
+input, textarea, select, .uneditable-input	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^input, textarea, select, .uneditable-input {$/;"	function	line:160
+input	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^input {$/;"	function	line:167
+#error_explanation	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^#error_explanation {$/;"	function	line:171
+ul	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^  ul {$/;"	function	line:173
+.field_with_errors	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^.field_with_errors {$/;"	function	line:179
+.form-control	/Users/yamaguchi/Desktop/environment/sample_app/app/assets/stylesheets/custom.scss	/^  .form-control {$/;"	function	line:181
+UsersHelper	/Users/yamaguchi/Desktop/environment/sample_app/app/helpers/users_helper.rb	/^module UsersHelper$/;"	module	line:1
+gravatar_for	/Users/yamaguchi/Desktop/environment/sample_app/app/helpers/users_helper.rb	/^  def gravatar_for(user, size:80)$/;"	method	line:4	class:UsersHelper
+UsersController	/Users/yamaguchi/Desktop/environment/sample_app/app/controllers/users_controller.rb	/^class UsersController < ApplicationController$/;"	class	line:1
+new	/Users/yamaguchi/Desktop/environment/sample_app/app/controllers/users_controller.rb	/^  def new$/;"	method	line:2	class:UsersController
+show	/Users/yamaguchi/Desktop/environment/sample_app/app/controllers/users_controller.rb	/^  def show$/;"	method	line:6	class:UsersController
+create	/Users/yamaguchi/Desktop/environment/sample_app/app/controllers/users_controller.rb	/^  def create$/;"	method	line:10	class:UsersController
+user_params	/Users/yamaguchi/Desktop/environment/sample_app/app/controllers/users_controller.rb	/^    def user_params$/;"	method	line:22	class:UsersController
+UserSignupTest	/Users/yamaguchi/Desktop/environment/sample_app/test/integration/user_signup_test.rb	/^class UserSignupTest < ActionDispatch::IntegrationTest$/;"	class	line:3
