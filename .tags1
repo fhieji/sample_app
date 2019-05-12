@@ -4,4 +4,4 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-User	/Users/yamaguchi/Desktop/environment/sample_app/app/models/user.rb	/^class User < ApplicationRecord$/;"	class	line:1
+UserSignupTest	/Users/yamaguchi/Desktop/environment/sample_app/test/integration/user_signup_test.rb	/^class UserSignupTest < ActionDispatch::IntegrationTest$/;"	class	line:3
